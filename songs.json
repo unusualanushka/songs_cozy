@@ -21,7 +21,7 @@
       "title": "Hum aapki aankhon mein",
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/hum%20aapki%20aankhon.mp3",
-      "cover_url": "https://i.pinimg.com/736x/b9/6b/b7/b96bb7664c51b9d1eff4ba56818b59d1.jpg"
+      "cover_url": "https://i.pinimg.com/736x/31/69/c2/3169c2545a68457d26fed6b7da5ff5bb.jpg"
     },
     {
       "id": "online_004",
@@ -36,6 +36,62 @@
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/piya%20o%20re%20piya%20imp.mp3",
       "cover_url": "https://i.pinimg.com/736x/2e/7f/58/2e7f5898bbc62529511d434fd6dd41a9.jpg"
+    },
+    {
+      "id": "online_006",
+      "title": "Abhi na jaao chorrke",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/abhi%20na%20jaao%20chorrke.mp3",
+      "cover_url": "https://i.pinimg.com/736x/df/85/74/df85744eb7a077967c38a7c7a7e7e178.jpg"
+    },
+    {
+      "id": "online_007",
+      "title": "Afreen afreen",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/afreen%20afreen.mp3",
+      "cover_url": "https://i.pinimg.com/736x/9b/44/cf/9b44cf20b158b8406ac951fea4f36989.jpg"
+    },
+    {
+      "id": "online_008",
+      "title": "Agar tum saath ho imp",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/agar%20tum%20saath%20ho%20imp.mp3",
+      "cover_url": "https://i.pinimg.com/736x/a6/96/91/a69691b03e8e737bd9b6544f32010b6e.jpg"
+    },
+    {
+      "id": "online_009",
+      "title": "Ajeeb dastaan hai yeh",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/ajeeb%20dastaan%20hai%20yeh.mp3",
+      "cover_url": "https://i.pinimg.com/736x/09/ce/08/09ce08be85a202ad1f60c07a43bed8e3.jpg"
+    },
+    {
+      "id": "online_010",
+      "title": "Dekha hi nahi",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/dekha%20hi%20nah.MP3",
+      "cover_url": "https://i.pinimg.com/736x/7c/6c/b3/7c6cb3cb30d33d0d9a5445db3f41974c.jpg"
+    },
+    {
+      "id": "online_011",
+      "title": "Jab tak",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/jab%20tak%20song.mp3",
+      "cover_url": "https://i.pinimg.com/736x/55/05/30/55053001b4eebcc0a3e4e4c7f3946bd3.jpg"
+    },
+    {
+      "id": "online_012",
+      "title": "Kho gaye ham kahan",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/kho%20gaye%20ham%20kahan.mp3",
+      "cover_url": "https://i.pinimg.com/736x/6d/4c/a6/6d4ca6bc71551aafd3b774c298f16169.jpg"
+    },
+    {
+      "id": "online_013",
+      "title": "English Retros",
+      "artist": "Paru :)",
+      "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/only%20english%20mashuo.mp3",
+      "cover_url": "https://i.pinimg.com/736x/f2/28/2c/f2282c1dee81cbbf5bdcea49da3a7c93.jpg"
     }
   ]
 }
