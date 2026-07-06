@@ -1,5 +1,5 @@
 {
-  "playlist_name": "GitHub Global Hits",
+  "playlist_name": "Personal Songs",
   "last_updated": "2026-07-06",
   "songs": [
     {
@@ -14,28 +14,28 @@
       "title": "Arz kiya hai mashup",
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/arz%20kiya%20hai%20x%20english.mp3",
-      "cover_url": "https://i.pinimg.com/736x/bd/00/57/bd0057ac3fab391eade950abccfd1b83.jpg" 
+      "cover_url": "https://i.pinimg.com/736x/bd/00/57/bd0057ac3fab391eade950abccfd1b83.jpg"
     },
-        {
+    {
       "id": "online_003",
       "title": "Hum aapki aankhon mein",
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/hum%20aapki%20aankhon.mp3",
-      "cover_url": "https://i.pinimg.com/736x/b9/6b/b7/b96bb7664c51b9d1eff4ba56818b59d1.jpg" 
+      "cover_url": "https://i.pinimg.com/736x/b9/6b/b7/b96bb7664c51b9d1eff4ba56818b59d1.jpg"
     },
-            {
+    {
       "id": "online_004",
       "title": "One that got-away",
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/paniyon%20sa%20x%20sajni%20re%20x%20gotaway.mp3",
-      "cover_url": "https://i.pinimg.com/736x/b9/6b/b7/b96bb7664c51b9d1eff4ba56818b59d1.jpg" 
+      "cover_url": "https://i.pinimg.com/736x/b9/6b/b7/b96bb7664c51b9d1eff4ba56818b59d1.jpg"
     },
-                {
+    {
       "id": "online_005",
       "title": "O re piya",
       "artist": "Paru :)",
       "audio_url": "https://raw.githubusercontent.com/unusualanushka/songs_cozy/main/piya%20o%20re%20piya%20imp.mp3",
-      "cover_url": "https://i.pinimg.com/736x/2e/7f/58/2e7f5898bbc62529511d434fd6dd41a9.jpg" 
+      "cover_url": "https://i.pinimg.com/736x/2e/7f/58/2e7f5898bbc62529511d434fd6dd41a9.jpg"
     }
   ]
 }
